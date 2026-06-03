@@ -1,0 +1,26 @@
+# GitHub Trending Weekly - Week {{ week_number }}
+
+> {{ date_range }} | Generated at {{ generated_at }}
+> 共收录 {{ total_repos }} 个仓库，覆盖 {{ lang_count }} 种语言
+
+---
+
+{% for lang, repos in languages.items() %}
+## {{ lang | capitalize }}
+
+{% if repos %}
+| # | 项目 | 描述 | Stars | Today Stars | Forks |
+|---|------|------|-------|-------------|-------|
+{% for repo in repos %}
+| {{ loop.index }} | [{{ repo.name }}]({{ repo.url }}) | {{ repo.description[:60] if repo.description else '-' }} | {{ repo.stars }} | +{{ repo.today_stars }} | {{ repo.forks }} |
+{% endfor %}
+{% else %}
+_(本周该语言没有 trending 数据)_
+{% endif %}
+
+{% endfor %}
+
+---
+
+> 数据来源: [GitHub Trending](https://github.com/trending)
+> 由 [trending-weekly](https://github.com/foweh/trending-weekly) 自动生成
