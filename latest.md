@@ -1,7 +1,7 @@
-# GitHub Trending Weekly - Week 44
+# GitHub Trending Weekly - Week 45
 
-> Oct 19 - Oct 26, 2026 | Generated at 2026-10-26 03:18 UTC
-> 共收录 209 个仓库，覆盖 15 种语言
+> Oct 26 - Nov 02, 2026 | Generated at 2026-11-02 04:31 UTC
+> 共收录 214 个仓库，覆盖 15 种语言
 
 ---
 
@@ -12,37 +12,29 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for kno | 33021 | +0 | 3634 |
+| 1 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub- | 25631 | +0 | 3364 |
 
-| 2 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and  | 135369 | +0 | 12917 |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | 119619 | +0 | 22877 |
 
-| 3 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and b | 142983 | +0 | 16878 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | 186434 | +0 | 22027 |
 
-| 4 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude | 44586 | +0 | 4665 |
+| 4 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities | 23885 | +0 | 2061 |
 
-| 5 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving | 95516 | +0 | 23952 |
+| 5 | [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) | - | 1846 | +0 | 338 |
 
-| 6 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to  | 104184 | +0 | 10120 |
+| 6 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant &amp; development framework that integrat | 45542 | +0 | 3339 |
 
-| 7 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: | 57144 | +0 | 5129 |
+| 7 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other proc | 145075 | +0 | 13001 |
 
-| 8 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alter | 87071 | +0 | 9630 |
+| 8 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | A privacy-first app that strips AI watermarks from content y | 25922 | +0 | 2955 |
 
-| 9 | [wshobson/agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Co | 41713 | +0 | 4426 |
+| 9 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and  | 140643 | +0 | 13437 |
 
-| 10 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large lan | 38163 | +0 | 9886 |
+| 10 | [blader/humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from  | 63565 | +0 | 5031 |
 
-| 11 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic c | 45086 | +0 | 5539 |
+| 11 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor | 53818 | +0 | 6587 |
 
-| 12 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Mar | 43771 | +0 | 7230 |
-
-| 13 | [Kruk2/jasna](https://github.com/Kruk2/jasna) | Video restoration tool | 3705 | +0 | 286 |
-
-| 14 | [ethanplusai/harvey](https://github.com/ethanplusai/harvey) | Autonomous AI sales agent powered by Claude Code or Codex. F | 2558 | +0 | 533 |
-
-| 15 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills  | 54605 | +0 | 4816 |
-
-| 16 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | 114765 | +0 | 22140 |
+| 12 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM | 6336 | +0 | 653 |
 
 
 
@@ -53,23 +45,25 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in | 47124 | +0 | 2924 |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with in | 56536 | +0 | 3686 |
 
-| 2 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | - | 7359 | +0 | 1191 |
+| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, r | 107970 | +0 | 7285 |
 
-| 3 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, | 19527 | +0 | 1088 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, i | 294911 | +0 | 43653 |
 
-| 4 | [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) | Turn Claude into a senior design architect: DTCG tokens, 52  | 3006 | +0 | 287 |
+| 4 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jai | 15531 | +0 | 3577 |
 
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the | 176263 | +0 | 9628 |
+| 5 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 | 37247 | +0 | 2661 |
 
-| 6 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻 Vibe Coding 101｜Your First Course For AI Product Builders. | 20172 | +0 | 1952 |
+| 6 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywri | 57889 | +0 | 8517 |
 
-| 7 | [react/react](https://github.com/react/react) | The library for web and native user interfaces. | 251852 | +0 | 51576 |
+| 7 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, | 21205 | +0 | 1186 |
 
-| 8 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 | 27892 | +0 | 1851 |
+| 8 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | 74190 | +0 | 5041 |
 
-| 9 | [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) | 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、 | 2538 | +0 | 257 |
+| 9 | [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) | Portable local AI studio for Windows, Linux, and macOS. Zero | 1754 | +0 | 434 |
+
+| 10 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | Voice-to-text dictation app with local (Nvidia Parakeet/Whis | 10522 | +0 | 1367 |
 
 
 
@@ -80,45 +74,37 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The original agent harness. Deploy intelligent multi-playe | 79313 | +0 | 9311 |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Capture | 109609 | +0 | 9581 |
 
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | 221577 | +0 | 29627 |
+| 2 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises | 7016 | +0 | 402 |
 
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. G | 105975 | +0 | 6705 |
+| 3 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | - | 38502 | +0 | 8942 |
 
-| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | 72263 | +0 | 6525 |
+| 4 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | 40614 | +0 | 7732 |
 
-| 5 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | - | 30175 | +0 | 8090 |
+| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | 77214 | +0 | 7075 |
 
-| 6 | [elie222/rakazo](https://github.com/elie222/rakazo) | Open-source Grok Bot alternative. Choose your own model and  | 5800 | +0 | 1024 |
+| 6 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their o | 9637 | +0 | 1193 |
 
-| 7 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 7.4 billion tokens per month. 34 free LLM providers. 635 fre | 41631 | +0 | 5612 |
+| 7 | [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of | 8941 | +0 | 1071 |
 
-| 8 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | 7769 | +0 | 1575 |
+| 8 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates. | 4559 | +0 | 472 |
 
-| 9 | [makecindy/cindy](https://github.com/makecindy/cindy) | Consider it done. The open-source AI agent that works out of | 5060 | +0 | 680 |
+| 9 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 | 13405 | +0 | 2603 |
 
-| 10 | [thesysdev/openui](https://github.com/thesysdev/openui) | The Open Standard for Generative UI | 14008 | +0 | 925 |
+| 10 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that | 10739 | +0 | 1474 |
 
-| 11 | [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) | DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频 | 4139 | +0 | 314 |
+| 11 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🎥 Make videos programmatically with React | 69810 | +0 | 5740 |
 
-| 12 | [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) | 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、 | 9134 | +0 | 2135 |
+| 12 | [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | Desktop app that records your on-screen work session and use | 5639 | +0 | 644 |
 
-| 13 | [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | Desktop app that records your on-screen work session and use | 5092 | +0 | 560 |
+| 13 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini dire | 108659 | +0 | 14909 |
 
-| 14 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | 一分钟搭建影视站，支持Docker等部署方式 | 21881 | +0 | 30091 |
+| 14 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexi | 41315 | +0 | 4755 |
 
-| 15 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | The open agent skills tool - npx skills | 36574 | +0 | 3147 |
+| 15 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 7.4 billion tokens per month. 34 free LLM providers. 635 fre | 45856 | +0 | 6264 |
 
-| 16 | [cursor/plugins](https://github.com/cursor/plugins) | Cursor plugin specification and official plugins | 14067 | +0 | 1404 |
-
-| 17 | [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | Modern protocol-side framework based on NTQQ | 11534 | +0 | 838 |
-
-| 18 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini dire | 108386 | +0 | 14836 |
-
-| 19 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | A context-compression plugin for month-long single sessions  | 2847 | +0 | 237 |
-
-| 20 | [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | The best way to get AI coding agents to solve hard problems  | 12505 | +0 | 1019 |
+| 16 | [google/brotli](https://github.com/google/brotli) | Brotli compression format | 15073 | +0 | 1394 |
 
 
 
@@ -129,41 +115,45 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) | The cross-harness, self-improving memory layer for AI agents | 2812 | +0 | 255 |
+| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and | 54567 | +0 | 7177 |
 
-| 2 | [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) | Awesome list of 300+ agentic AI resources | 2710 | +0 | 707 |
+| 2 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | NetBird securely connects people, machines and AI agents acr | 30543 | +0 | 1817 |
 
-| 3 | [eugenioenko/ttt](https://github.com/eugenioenko/ttt) | TTT Editor (Terminal Text Tool): A real alternative to VS Co | 861 | +0 | 97 |
+| 3 | [docker/compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | 38568 | +0 | 5900 |
 
-| 4 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs,  | 49958 | +0 | 4544 |
+| 4 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Mu | 57228 | +0 | 8760 |
 
-| 5 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | Open source factory for one-shot engineering | 8236 | +0 | 670 |
+| 5 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | 38497 | +0 | 3409 |
 
-| 6 | [strelov1/freehire](https://github.com/strelov1/freehire) | freehire — the open-source search engine for job seekers | 3056 | +0 | 307 |
+| 6 | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | VictoriaMetrics: fast, cost-effective monitoring solution an | 17995 | +0 | 1793 |
 
-| 7 | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-os | 184774 | +0 | 18578 |
+| 7 | [grafana/loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | 29107 | +0 | 4167 |
 
-| 8 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | Gin is a high-performance HTTP web framework written in Go.  | 89426 | +0 | 8786 |
+| 8 | [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | Cloudflare Tunnel client | 16395 | +0 | 1513 |
 
-| 9 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one softw | 58689 | +0 | 7307 |
+| 9 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | BillionMail gives you open-source MailServer, NewsLetter, Em | 16150 | +0 | 1795 |
 
-| 10 | [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | Local-first session search, analytics, insights, and token u | 6273 | +0 | 661 |
+| 10 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is a leading open-source Retrieval-Augmented Generat | 93319 | +0 | 11201 |
 
-| 11 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in co | 38717 | +0 | 797 |
+| 11 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Supporting multi-protocol multi-user(Vmess, Vless, Trojan, S | 49115 | +0 | 12617 |
 
-| 12 | [helm/helm](https://github.com/helm/helm) | The Kubernetes Package Manager | 30371 | +0 | 7870 |
+| 12 | [hashicorp/nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload o | 17068 | +0 | 2153 |
 
-| 13 | [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | ScopeSentry-Cyberspace mapping, subdomain enumeration, port  | 2131 | +0 | 477 |
+| 13 | [superplanehq/superplane](https://github.com/superplanehq/superplane) | Open source factory for one-shot engineering | 8513 | +0 | 687 |
 
-| 14 | [pearl-research-labs/pearl](https://github.com/pearl-research-labs/pearl) | Monorepo for the Pearl network 🐚 | 402 | +0 | 97 |
+| 14 | [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) | Go compiler for small places. Microcontrollers, WebAssembly  | 17877 | +0 | 1102 |
 
-| 15 | [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api) | A Go-based OpenCode Zen / Zen Go API proxy with OpenAI &amp; | 1298 | +0 | 226 |
+| 15 | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-os | 185617 | +0 | 18856 |
 
-| 16 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing comp | 32432 | +0 | 5038 |
+| 16 | [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behin | 110378 | +0 | 15299 |
 
-| 17 | [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | 36696 | +0 | 1905 |
+| 17 | [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) | Awesome list of 300+ agentic AI resources | 2845 | +0 | 740 |
 
-| 18 | [chaitin/SafeLine](https://github.com/chaitin/SafeLine) | SafeLine is a self-hosted WAF(Web Application Firewall) / re | 22964 | +0 | 1574 |
+| 18 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | 90317 | +0 | 8441 |
+
+| 19 | [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | ezBookkeeping is an open source, powerful, self-hosted perso | 5933 | +0 | 736 |
+
+| 20 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | Open-source AI gateway. Self-hosted LLM gateway with OpenAI- | 51165 | +0 | 12411 |
 
 
 
@@ -174,37 +164,41 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Solution for long term memory for agent coding CLIs and to f | 13549 | +0 | 960 |
+| 1 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with poli | 99565 | +0 | 5892 |
 
-| 2 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Local-first search engine and MCP server for AI agents. One  | 15599 | +0 | 1139 |
+| 2 | [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) | Next Generation Agentic Proxy for AI Agents and MCP servers | 5859 | +0 | 1038 |
 
-| 3 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | A Tiny biped duck robot 🦆 | 11774 | +0 | 1495 |
+| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Solution for long term memory for agent coding CLIs and to f | 14860 | +0 | 1067 |
 
-| 4 | [jub0t/Concat](https://github.com/jub0t/Concat) | The truly free, open-source, local-first, cross-platform Cap | 11569 | +0 | 1420 |
+| 4 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | A Tiny biped duck robot 🦆 | 13300 | +0 | 1662 |
 
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, an | 96411 | +0 | 5138 |
+| 5 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text applicati | 36724 | +0 | 3460 |
 
-| 6 | [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | The world's first open-source AI-native vector design tool a | 6677 | +0 | 582 |
+| 6 | [macro-inc/macro](https://github.com/macro-inc/macro) | Macro is a unified workspace for teams: email, chat, docs, t | 6064 | +0 | 560 |
 
-| 7 | [Automattic/harper](https://github.com/Automattic/harper) | Offline, privacy-first grammar checker. Fast, open-source, R | 17127 | +0 | 768 |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial | 102026 | +0 | 13254 |
 
-| 8 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at des | 87874 | +0 | 5250 |
+| 8 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | Algorithm powering the For You feed on X | 34013 | +0 | 5503 |
 
-| 9 | [macro-inc/macro](https://github.com/macro-inc/macro) | Macro is a unified workspace for teams: email, chat, docs, t | 4931 | +0 | 480 |
+| 9 | [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) | Distributed AI/LLM for the people. Share compute privately o | 3777 | +0 | 482 |
 
-| 10 | [leepokai/Codync](https://github.com/leepokai/Codync) | Open source Grok Bot alternative, Bring your own agent and s | 870 | +0 | 103 |
+| 10 | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen re | 24242 | +0 | 2229 |
 
-| 11 | [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) | Safety-first disk cleaner and space analyzer for macOS, Wind | 4787 | +0 | 328 |
+| 11 | [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) | The Open Runtime for AI Agents | 11413 | +0 | 2995 |
 
-| 12 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | OpenShell is the safe, private runtime for autonomous AI age | 19901 | +0 | 1968 |
+| 12 | [trymirai/uzu](https://github.com/trymirai/uzu) | A high-performance inference engine for AI models | 3172 | +0 | 212 |
 
-| 13 | [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) | Object-storage native graph database with branching and type | 1755 | +0 | 245 |
+| 13 | [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail &amp; Collaboration server. Secure, scalable | 15631 | +0 | 1031 |
 
-| 14 | [claration/impactor](https://github.com/claration/impactor) | Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloadin | 3612 | +0 | 257 |
+| 14 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | 132771 | +0 | 20978 |
 
-| 15 | [trymirai/uzu](https://github.com/trymirai/uzu) | A high-performance inference engine for AI models | 2577 | +0 | 148 |
+| 15 | [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) | NVIDIA's CUDA platform for Rust. Host runtime crates plus Ti | 3944 | +0 | 351 |
 
-| 16 | [redlib-org/redlib](https://github.com/redlib-org/redlib) | Private front-end for Reddit | 3928 | +0 | 310 |
+| 16 | [leepokai/Codync](https://github.com/leepokai/Codync) | Open source Grok Bot alternative, Bring your own agent and s | 1625 | +0 | 157 |
+
+| 17 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | the runtime your coding agents live on | 47387 | +0 | 3789 |
+
+| 18 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self- | 127825 | +0 | 20237 |
 
 
 
@@ -215,37 +209,33 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) | A Minecraft Launcher which is multi-functional, cross-platfo | 10730 | +0 | 1274 |
+| 1 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | 66706 | +0 | 21462 |
 
-| 2 | [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | A tool for reverse engineering Android apk files | 26690 | +0 | 4146 |
+| 2 | [kdn251/interviews](https://github.com/kdn251/interviews) | Everything you need to know to get the job. | 65535 | +0 | 12929 |
 
-| 3 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | 94356 | +0 | 10599 |
+| 3 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | Dependency-Track is an intelligent Component Analysis platfo | 4396 | +0 | 851 |
 
-| 4 | [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) | Fold Craft Launcher, an Android Minecraft : Java Edition lau | 5062 | +0 | 356 |
+| 4 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | Cryptomator for Windows, macOS, and Linux: Secure client-sid | 16412 | +0 | 1496 |
 
-| 5 | [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) | An Instagram Xposed module with features like Developer Opti | 1632 | +0 | 103 |
+| 5 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | Spring Framework | 60309 | +0 | 38748 |
 
-| 6 | [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) | No clever tagline needed. | 13783 | +0 | 1757 |
+| 6 | [alibaba/nacos](https://github.com/alibaba/nacos) | an easy-to-use dynamic service discovery, configuration and  | 33491 | +0 | 13283 |
 
-| 7 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Op | 30003 | +0 | 2862 |
+| 7 | [openjdk/jdk](https://github.com/openjdk/jdk) | JDK main-line development https://openjdk.org/projects/jdk | 23490 | +0 | 6631 |
 
-| 8 | [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) | Dual pane Android file manager with focus on APKs | 399 | +0 | 51 |
+| 8 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Free and Open Source, Distributed, RESTful Search Engine | 78457 | +0 | 26234 |
 
-| 9 | [skylot/jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | 51271 | +0 | 5829 |
+| 9 | [halo-dev/halo](https://github.com/halo-dev/halo) | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足 | 40101 | +0 | 10313 |
 
-| 10 | [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | The official Java SDK for Model Context Protocol servers and | 3744 | +0 | 1114 |
+| 10 | [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | 25295 | +0 | 3601 |
 
-| 11 | [LiteLDev/LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) | A launcher designed for Minecraft Bedrock Edition on Android | 651 | +0 | 169 |
+| 11 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Jenkins automation server | 26714 | +0 | 9818 |
 
-| 12 | [MojoLauncher/MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) | A Minecraft: Java Edition launcher, based on PojavLauncher | 1051 | +0 | 493 |
+| 12 | [apache/flink](https://github.com/apache/flink) | Apache Flink | 26442 | +0 | 14206 |
 
-| 13 | [apache/cassandra](https://github.com/apache/cassandra) | Open source transactional distributed database. Linear scala | 10118 | +0 | 4070 |
+| 13 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applic | 37640 | +0 | 9126 |
 
-| 14 | [apache/beam](https://github.com/apache/beam) | Apache Beam is a unified programming model for Batch and Str | 8693 | +0 | 4707 |
-
-| 15 | [apache/kafka](https://github.com/apache/kafka) | Apache Kafka - A distributed event streaming platform | 34118 | +0 | 15625 |
-
-| 16 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | Browse media content with your own rules on Android TV | 35544 | +0 | 2201 |
+| 14 | [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) | Code on the Go is an IDE that lets you build Android apps on | 534 | +0 | 111 |
 
 
 
@@ -256,17 +246,35 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [geode-sdk/geode](https://github.com/geode-sdk/geode) | The ultimate Geometry Dash modding framework | 3120 | +0 | 619 |
+| 1 | [aardappel/goose](https://github.com/aardappel/goose) | The Goose Programming Language | 2704 | +0 | 113 |
 
-| 2 | [jamro/tiny-engineer](https://github.com/jamro/tiny-engineer) | A small desktop robot that brings an AI coding assistant to  | 892 | +0 | 113 |
+| 2 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is a high-performance analytical database system | 42733 | +0 | 4168 |
 
-| 3 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | DuckDB is a high-performance analytical database system | 42553 | +0 | 4028 |
+| 3 | [electron/electron](https://github.com/electron/electron) | Build cross-platform desktop apps with JavaScript, HTML, and | 123703 | +0 | 17916 |
 
-| 4 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering adv | 33122 | +0 | 4725 |
+| 4 | [geode-sdk/geode](https://github.com/geode-sdk/geode) | The ultimate Geometry Dash modding framework | 3200 | +0 | 634 |
 
-| 5 | [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | 119080 | +0 | 27203 |
+| 5 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic til | 39463 | +0 | 2133 |
 
-| 6 | [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) | OptiScaler bridges upscaling/frame gen across GPUs. Supports | 12097 | +0 | 566 |
+| 6 | [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | 119413 | +0 | 27328 |
+
+| 7 | [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot | 16270 | +0 | 3385 |
+
+| 8 | [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with | 76925 | +0 | 12103 |
+
+| 9 | [MariaDB/server](https://github.com/MariaDB/server) | MariaDB server is a community developed fork of MySQL server | 8502 | +0 | 2287 |
+
+| 10 | [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the W | 29688 | +0 | 2002 |
+
+| 11 | [google/perfetto](https://github.com/google/perfetto) | Production-grade client-side tracing, profiling, and analysi | 6729 | +0 | 929 |
+
+| 12 | [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | A multi core friendly rigid body physics and collision detec | 12127 | +0 | 995 |
+
+| 13 | [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) | A high performance, editable terrain system for Godot 4. | 4649 | +0 | 355 |
+
+| 14 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech  | 15669 | +0 | 1838 |
+
+| 15 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ | 133100 | +0 | 25042 |
 
 
 
@@ -277,43 +285,49 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Open-source live-chat, email support, omni-channel desk. An  | 38287 | +0 | 9342 |
+| 1 | [opf/openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management so | 16913 | +0 | 3668 |
 
-| 2 | [opf/openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management so | 16673 | +0 | 3618 |
+| 2 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Open source DocuSign alternative. Create, fill, and sign dig | 18973 | +0 | 1928 |
 
-| 3 | [ruby/ruby](https://github.com/ruby/ruby) | The Ruby Programming Language | 23795 | +0 | 5670 |
+| 3 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Open-source live-chat, email support, omni-channel desk. An  | 38722 | +0 | 9423 |
 
-| 4 | [Homebrew/brew](https://github.com/Homebrew/brew) | 🍺 The Package Manager for Everywhere | 50106 | +0 | 11396 |
+| 4 | [huginn/huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agen | 50258 | +0 | 4338 |
 
-| 5 | [huginn/huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agen | 50138 | +0 | 4317 |
+| 5 | [ruby/rubygems](https://github.com/ruby/rubygems) | Library packaging and distribution for Ruby. | 3986 | +0 | 1959 |
 
-| 6 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default and OSS formulae (built-from-source packages) for  | 15642 | +0 | 13940 |
+| 6 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | 39292 | +0 | 15004 |
 
-| 7 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | 39238 | +0 | 14994 |
+| 7 | [zammad/zammad](https://github.com/zammad/zammad) | Zammad is a web based open source helpdesk/customer support  | 6064 | +0 | 1091 |
 
-| 8 | [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) | 🌇 A collection of links for free stock photography, video an | 14641 | +0 | 828 |
+| 8 | [hashicorp/vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development  | 27218 | +0 | 4527 |
 
-| 9 | [github/explore](https://github.com/github/explore) | Community-curated topic and collection pages on GitHub | 4929 | +0 | 14652 |
+| 9 | [github/explore](https://github.com/github/explore) | Community-curated topic and collection pages on GitHub | 4944 | +0 | 14694 |
 
-| 10 | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | Open source alternative to AWS. Elastic compute, block stora | 12345 | +0 | 598 |
+| 10 | [Freika/dawarich](https://github.com/Freika/dawarich) | Your favorite self-hostable alternative to Google Timeline ( | 10801 | +0 | 415 |
 
-| 11 | [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection) | A collection of RBS for gems. | 302 | +0 | 140 |
+| 11 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging comm | 50464 | +0 | 7535 |
 
-| 12 | [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) | A database of vulnerable Ruby Gems | 1076 | +0 | 249 |
+| 12 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default and OSS formulae (built-from-source packages) for  | 15652 | +0 | 13944 |
 
-| 13 | [forem/forem](https://github.com/forem/forem) | For empowering community 🌱 | 22809 | +0 | 4192 |
+| 13 | [spree/spree](https://github.com/spree/spree) | Open Source Platform for DTC, B2B Commerce, Marketplaces &am | 15805 | +0 | 5319 |
 
-| 14 | [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) | Build LLM-powered applications in Ruby | 2006 | +0 | 268 |
+| 14 | [rails/rails](https://github.com/rails/rails) | Ruby on Rails | 58849 | +0 | 23848 |
 
-| 15 | [jruby/jruby](https://github.com/jruby/jruby) | JRuby, an implementation of Ruby on the JVM | 3923 | +0 | 954 |
+| 15 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 🌐 Jekyll is a blog-aware static site generator in Ruby | 51742 | +0 | 10306 |
 
-| 16 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iO | 42304 | +0 | 6047 |
+| 16 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | A Ruby static code analyzer and formatter, based on the comm | 12918 | +0 | 3161 |
 
-| 17 | [theforeman/foreman](https://github.com/theforeman/foreman) | an application that automates the lifecycle of servers | 2997 | +0 | 1061 |
+| 17 | [Homebrew/brew](https://github.com/Homebrew/brew) | 🍺 The Package Manager for Everywhere | 50183 | +0 | 11414 |
 
-| 18 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging comm | 50450 | +0 | 7523 |
+| 18 | [ruby/ruby](https://github.com/ruby/ruby) | The Ruby Programming Language | 23799 | +0 | 5680 |
 
-| 19 | [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) | The Cocoa Dependency Manager. | 14838 | +0 | 2684 |
+| 19 | [forem/forem](https://github.com/forem/forem) | For empowering community 🌱 | 22818 | +0 | 4192 |
+
+| 20 | [antiwork/gumroad](https://github.com/antiwork/gumroad) | See what sticks | 10072 | +0 | 2107 |
+
+| 21 | [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection) | A collection of RBS for gems. | 302 | +0 | 141 |
+
+| 22 | [basecamp/kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. | 14700 | +0 | 769 |
 
 
 
@@ -324,43 +338,35 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) | 👾 Open Computer Use – Open-Source Alternative to Codex Compu | 2693 | +0 | 246 |
+| 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python | 131860 | +0 | 15588 |
 
-| 2 | [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | 13411 | +0 | 1230 |
+| 2 | [pauljoda/Crest](https://github.com/pauljoda/Crest) | An open source browser for Mac, iPhone, and iPad. | 1052 | +0 | 100 |
 
-| 3 | [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | 36532 | +0 | 1883 |
+| 3 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes | 37050 | +0 | 5891 |
 
-| 4 | [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS  | 14762 | +0 | 1668 |
+| 4 | [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) | A lightweight, cross-platform IDE for the AI era, with on-de | 2434 | +0 | 212 |
 
-| 5 | [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) | A lightweight, cross-platform IDE for the AI era, with on-de | 2202 | +0 | 197 |
+| 5 | [LoopKit/Loop](https://github.com/LoopKit/Loop) | An automated insulin delivery app for iOS, built on LoopKit | 1752 | +0 | 1450 |
 
-| 6 | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Telegram-iOS | 9350 | +0 | 3131 |
+| 6 | [farzaa/clicky](https://github.com/farzaa/clicky) | The open-source project HeyClicky grew out of. The official  | 7898 | +0 | 1580 |
 
-| 7 | [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam) | A simple AltSign wrapper app that allows you to enable "Incr | 413 | +0 | 133 |
+| 7 | [robinebers/openusage](https://github.com/robinebers/openusage) | Burning through your subscriptions too fast? Paying for stuf | 4515 | +0 | 523 |
 
-| 8 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes | 36831 | +0 | 5857 |
+| 8 | [groue/GRDB.swift](https://github.com/groue/GRDB.swift) | A toolkit for SQLite databases, with a focus on application  | 8721 | +0 | 1098 |
 
-| 9 | [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit) | Conduit — native SwiftUI iOS client for Hermes Agent | 448 | +0 | 58 |
+| 9 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | Dynamic Island for macOS | 5153 | +0 | 361 |
 
-| 10 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Run a virtual iPhone on an Apple Silicon Mac. | 16012 | +0 | 1896 |
+| 10 | [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | Free, open-source macOS cleaner. CleanMyMac alternative with | 7584 | +0 | 441 |
 
-| 11 | [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | Free, open-source macOS cleaner. CleanMyMac alternative with | 7407 | +0 | 426 |
+| 11 | [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | AltStore is an alternative app store for non-jailbroken iOS  | 14824 | +0 | 1696 |
 
-| 12 | [pauljoda/Crest](https://github.com/pauljoda/Crest) | An open source browser for Mac, iPhone, and iPad. | 809 | +0 | 62 |
+| 12 | [carloslfu/slotstream](https://github.com/carloslfu/slotstream) | Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-F | 640 | +0 | 54 |
 
-| 13 | [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) | macOS menu bar app that tells you, in plain English, what ea | 9019 | +0 | 278 |
+| 13 | [swiftlang/swift](https://github.com/swiftlang/swift) | The Swift Programming Language | 70521 | +0 | 10886 |
 
-| 14 | [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) | Straightforward, type-safe argument parsing for Swift | 3798 | +0 | 431 |
+| 14 | [slopus/happy](https://github.com/slopus/happy) | Orchestrate Claude, Codex and Grok in one app. Open-source ( | 24446 | +0 | 2102 |
 
-| 15 | [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS) | Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple  | 429 | +0 | 71 |
-
-| 16 | [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) | Give your AI agent eyes and hands on iOS Simulator and Andro | 1487 | +0 | 106 |
-
-| 17 | [claration/feather](https://github.com/claration/feather) | Free on-device iOS/iPadOS application manager/installer, usi | 4930 | +0 | 447 |
-
-| 18 | [OpenBMB/MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps) | MiniCPM-V apps — fully offline multimodal chat on iOS / Andr | 488 | +0 | 92 |
-
-| 19 | [rileytestut/Delta](https://github.com/rileytestut/Delta) | Delta is an all-in-one classic video game emulator for non-j | 6205 | +0 | 494 |
+| 15 | [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶 | 11226 | +0 | 1178 |
 
 
 
@@ -371,31 +377,29 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [android/skills](https://github.com/android/skills) | - | 9734 | +0 | 628 |
+| 1 | [android/skills](https://github.com/android/skills) | - | 10246 | +0 | 667 |
 
-| 2 | [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) | BitChord - A modern YouTube music client with clean aestheti | 4508 | +0 | 432 |
+| 2 | [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) | New mask, same task. All patches answer to Doom. | 994 | +0 | 69 |
 
-| 3 | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | 翻墙-科学上网 | 55859 | +0 | 8686 |
+| 3 | [subhra74/xdm](https://github.com/subhra74/xdm) | Fast, reliable download accelerator and video downloader sin | 8253 | +0 | 1214 |
 
-| 4 | [CYQawa/YunX](https://github.com/CYQawa/YunX) | ✨一个安卓网盘解析下载app✨ | 5564 | +0 | 284 |
+| 4 | [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) | BitChord - A modern YouTube music client with clean aestheti | 5192 | +0 | 526 |
 
-| 5 | [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) | The most full featured web-to-app toolkit on Android, a comp | 7033 | +0 | 1087 |
+| 5 | [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution &amp; KPM | 6816 | +0 | 1402 |
 
-| 6 | [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | RikkaHub is an Android APP that supports for multiple LLM pr | 8469 | +0 | 819 |
+| 6 | [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music) | A modern sleek music player. | 463 | +0 | 32 |
 
-| 7 | [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) | StreamVault is a TV-first free IPTV player for Android TV bu | 870 | +0 | 149 |
+| 7 | [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android | 19960 | +0 | 4848 |
 
-| 8 | [Lelonio/Square](https://github.com/Lelonio/Square) | Unofficial YouTube Music / Spotify Premium client for Androi | 390 | +0 | 37 |
+| 8 | [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) | A private messenger for Android. | 29569 | +0 | 6932 |
 
-| 9 | [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution &amp; KPM | 6676 | +0 | 1374 |
+| 9 | [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | 63690 | +0 | 19147 |
 
-| 10 | [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) | First open-source AirPlay receiver implementation for Androi | 826 | +0 | 128 |
+| 10 | [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) | Block ads system-wide on Android using local VPN-based DNS f | 2530 | +0 | 151 |
 
-| 11 | [celzero/rethink-app](https://github.com/celzero/rethink-app) | DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard p | 5780 | +0 | 368 |
+| 11 | [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland) | Smart Island is a modern, open-source implementation of Andr | 390 | +0 | 54 |
 
-| 12 | [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) | Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, O | 552 | +0 | 99 |
-
-| 13 | [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android | 19653 | +0 | 4713 |
+| 12 | [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | Using system APIs directly with adb/root privileges from nor | 32607 | +0 | 3511 |
 
 
 
@@ -406,33 +410,39 @@
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [MoeKoeMusic/MoeKoeMusic](https://github.com/MoeKoeMusic/MoeKoeMusic) | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aestheticall | 6956 | +0 | 434 |
+| 1 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Practice English, one strike, one step forward | 10872 | +0 | 1314 |
 
-| 2 | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 📚 The open-source, offline-first Notion, Obsidian &amp; Conf | 3342 | +0 | 254 |
+| 2 | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 📚 The open-source, offline-first Notion, Obsidian &amp; Conf | 3747 | +0 | 280 |
 
-| 3 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux | 33458 | +0 | 4664 |
+| 3 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy | 22289 | +0 | 1566 |
 
-| 4 | [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 🌈 An enterprise-class UI components based on Ant Design and  | 21691 | +0 | 3889 |
+| 4 | [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) | 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易 | 2992 | +0 | 226 |
 
-| 5 | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackov | 24724 | +0 | 3023 |
+| 5 | [frappe/helpdesk](https://github.com/frappe/helpdesk) | Modern, Streamlined, Free and Open Source Customer Service S | 3470 | +0 | 994 |
 
-| 6 | [keleus/BewlyCat](https://github.com/keleus/BewlyCat) | BewlyCat——基于BewlyBewly开发的Bilibili拓展 | 4489 | +0 | 162 |
+| 6 | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackov | 24868 | +0 | 3038 |
 
-| 7 | [unovue/reka-ui](https://github.com/unovue/reka-ui) | An open-source UI component library for building high-qualit | 6902 | +0 | 575 |
+| 7 | [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) | Simple dashboard for WireGuard VPN written in Python &amp; V | 3763 | +0 | 481 |
 
-| 8 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy | 22143 | +0 | 1548 |
+| 8 | [RikkaApps/websites](https://github.com/RikkaApps/websites) | Websites for Rikka apps. | 476 | +0 | 73240 |
 
-| 9 | [Gzh0821/pvzg_site](https://github.com/Gzh0821/pvzg_site) | PvZ2 Gardendless Official Website | A rewritten Plants vs Zo | 1804 | +0 | 140 |
+| 9 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great  | 41092 | +0 | 5552 |
 
-| 10 | [RikkaApps/websites](https://github.com/RikkaApps/websites) | Websites for Rikka apps. | 471 | +0 | 71989 |
+| 10 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux | 33514 | +0 | 4668 |
 
-| 11 | [markterence/discord-quest-completer](https://github.com/markterence/discord-quest-completer) | A Windows desktop application to complete quests on Discord  | 953 | +0 | 93 |
+| 11 | [hefengxian/my-ielts](https://github.com/hefengxian/my-ielts) | 雅思词汇真经、雅思语法、听力 179、阅读 538 同义替换等。Everything during preparing  | 4005 | +0 | 452 |
 
-| 12 | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great  | 40971 | +0 | 5519 |
+| 12 | [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 🎉 A magical vue admin https://panjiachen.github.io/vue-eleme | 90124 | +0 | 30236 |
 
-| 13 | [zwave-js/zwave-js-ui](https://github.com/zwave-js/zwave-js-ui) | Full featured Z-Wave Control Panel UI and MQTT gateway. Buil | 1247 | +0 | 253 |
+| 13 | [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) | Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, | 3240 | +0 | 521 |
 
-| 14 | [ElemeFE/element](https://github.com/ElemeFE/element) | A Vue.js 2.0 UI Toolkit for Web | 54010 | +0 | 14376 |
+| 14 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | PowerPoint-ist（/'pauəpɔintist/）, An online presentation appl | 9452 | +0 | 1781 |
+
+| 15 | [yuhonas/free-exercise-db](https://github.com/yuhonas/free-exercise-db) | Open Public Domain Exercise Dataset in JSON format, over 800 | 2078 | +0 | 530 |
+
+| 16 | [primefaces/primevue](https://github.com/primefaces/primevue) | Next Generation Vue UI Component Library | 14450 | +0 | 1784 |
+
+| 17 | [inovector/mixpost](https://github.com/inovector/mixpost) | 📅 Schedule, 📢 publish, and ⚡ manage your social media conten | 3897 | +0 | 587 |
 
 
 
@@ -450,37 +460,43 @@ _(本周该语言没有 trending 数据)_
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Self-Hosting Guide. Learn all about locally hosting (on prem | 23330 | +0 | 1171 |
+| 1 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (July 2026) | 105703 | +0 | 10742 |
 
-| 2 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (July 2026) | 105678 | +0 | 10724 |
+| 2 | [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Self-Hosting Guide. Learn all about locally hosting (on prem | 23431 | +0 | 1172 |
 
-| 3 | [docker-library/php](https://github.com/docker-library/php) | Docker Official Image packaging for PHP | 4118 | +0 | 2033 |
+| 3 | [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project  | 12205 | +0 | 3748 |
 
-| 4 | [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) | Learning Vim and Vimscript doesn't have to be hard. This is  | 15321 | +0 | 1140 |
+| 4 | [nodejs/docker-node](https://github.com/nodejs/docker-node) | Official Docker Image for Node.js 🐳 🐢 🚀 | 8597 | +0 | 1975 |
 
-| 5 | [vulhub/vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose | 21407 | +0 | 4817 |
+| 5 | [corretto/corretto-docker](https://github.com/corretto/corretto-docker) | Dockerfiles for Amazon Corretto Official images. | 199 | +0 | 70 |
 
-| 6 | [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) | 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling f | 2623 | +0 | 317 |
+| 6 | [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) | Learning Vim and Vimscript doesn't have to be hard. This is  | 15352 | +0 | 1143 |
 
-| 7 | [nodejs/docker-node](https://github.com/nodejs/docker-node) | Official Docker Image for Node.js 🐳 🐢 🚀 | 8598 | +0 | 1975 |
+| 7 | [freeCodeCamp/rdb-alpha](https://github.com/freeCodeCamp/rdb-alpha) | - | 177 | +0 | 1293 |
 
-| 8 | [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) | This repo is used to contribute to Windows, Windows Server,  | 510 | +0 | 641 |
+| 8 | [render-examples/mysql](https://github.com/render-examples/mysql) | MySQL 8.0 and 5.7 on Render | 46 | +0 | 1186 |
 
-| 9 | [corretto/corretto-docker](https://github.com/corretto/corretto-docker) | Dockerfiles for Amazon Corretto Official images. | 199 | +0 | 69 |
+| 9 | [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) | Visual Studio Code Remote Development: Open any folder in WS | 4210 | +0 | 483 |
 
-| 10 | [laradock/laradock](https://github.com/laradock/laradock) | Full PHP development environment for Docker. Run Laravel, Sy | 12680 | +0 | 4331 |
+| 10 | [kubernetes-sigs/contributor-playground](https://github.com/kubernetes-sigs/contributor-playground) | - | 293 | +0 | 2159 |
 
-| 11 | [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project  | 12189 | +0 | 3738 |
+| 11 | [docker-library/python](https://github.com/docker-library/python) | Docker Official Image packaging for Python | 2796 | +0 | 1111 |
 
-| 12 | [freeCodeCamp/rdb-alpha](https://github.com/freeCodeCamp/rdb-alpha) | - | 177 | +0 | 1267 |
+| 12 | [yankils/Simple-DevOps-Project](https://github.com/yankils/Simple-DevOps-Project) | - | 969 | +0 | 16839 |
 
-| 13 | [render-examples/mysql](https://github.com/render-examples/mysql) | MySQL 8.0 and 5.7 on Render | 46 | +0 | 1176 |
+| 13 | [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) | Official container images for .NET | 4877 | +0 | 1978 |
 
-| 14 | [Vinpink2/June-Ultra](https://github.com/Vinpink2/June-Ultra) | (Official) Repository. | 735 | +0 | 2091 |
+| 14 | [Vinpink2/June-Ultra](https://github.com/Vinpink2/June-Ultra) | (Official) Repository. | 739 | +0 | 2096 |
 
-| 15 | [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) | Visual Studio Code Remote Development: Open any folder in WS | 4204 | +0 | 481 |
+| 15 | [redhat-openshift-ecosystem/certified-operators](https://github.com/redhat-openshift-ecosystem/certified-operators) | Production catalog for Red Hat Certified Operator Bundles | 87 | +0 | 683 |
 
-| 16 | [aws-amplify/amplify-hosting](https://github.com/aws-amplify/amplify-hosting) | AWS Amplify Hosting provides a Git-based workflow for deploy | 480 | +0 | 124 |
+| 16 | [xhyphertech/Pretty-md](https://github.com/xhyphertech/Pretty-md) | 𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑 | 269 | +0 | 958 |
+
+| 17 | [aws-amplify/amplify-hosting](https://github.com/aws-amplify/amplify-hosting) | AWS Amplify Hosting provides a Git-based workflow for deploy | 479 | +0 | 124 |
+
+| 18 | [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) | Official Zabbix Dockerfiles | 2856 | +0 | 1435 |
+
+| 19 | [piyushsachdeva/CKA-2024](https://github.com/piyushsachdeva/CKA-2024) | This repository contains the notes and code snippets of the  | 1207 | +0 | 2024 |
 
 
 
@@ -491,37 +507,33 @@ _(本周该语言没有 trending 数据)_
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wiza | 164032 | +0 | 26475 |
+| 1 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework &amp; software development metho | 310733 | +0 | 27654 |
 
-| 2 | [EpicGames/unreal-engine-skills-for-claude-code-plugin](https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin) | - | 1667 | +0 | 172 |
+| 2 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, | 32525 | +0 | 4425 |
 
-| 3 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Keep your Mac and PC clean, light, and running like new. F | 72883 | +0 | 2573 |
+| 3 | [expo/skills](https://github.com/expo/skills) | A collection of AI agent skills for working with Expo projec | 4012 | +0 | 256 |
 
-| 4 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, | 27562 | +0 | 3910 |
+| 4 | [dockur/windows](https://github.com/dockur/windows) | Windows inside a Docker container. | 54005 | +0 | 5079 |
 
-| 5 | [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | 61461 | +0 | 3337 |
+| 5 | [StressOzz/Zapret-Manager](https://github.com/StressOzz/Zapret-Manager) | Универсальный менеджер для обхода блокировок на OpenWrt | 2128 | +0 | 98 |
 
-| 6 | [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) | OSINT &amp; recon toolkit // 100+ tools, one-command install | 3509 | +0 | 547 |
+| 6 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 | 22264 | +0 | 5554 |
 
-| 7 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents director | 303330 | +0 | 25522 |
+| 7 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Troj | 5201 | +0 | 1848 |
 
-| 8 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineeri | 8311 | +0 | 944 |
+| 8 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineeri | 8612 | +0 | 980 |
 
-| 9 | [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | Open-source firmware for Ingenic SoC IP cameras | 2279 | +0 | 345 |
+| 9 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | Persistent file-based planning for AI coding agents and long | 27816 | +0 | 2310 |
 
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework &amp; software development metho | 305113 | +0 | 27181 |
+| 10 | [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | 61628 | +0 | 3368 |
 
-| 11 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board) | HELP WANTED: AI AGENTS. Real bounties, real money, every pay | 738 | +0 | 53 |
+| 11 | [VSCodium/vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/lic | 33917 | +0 | 1917 |
 
-| 12 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Troj | 5031 | +0 | 1815 |
+| 12 | [fscarmen/sing-box](https://github.com/fscarmen/sing-box) | Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan  | 5964 | +0 | 1153 |
 
-| 13 | [expo/skills](https://github.com/expo/skills) | A collection of AI agent skills for working with Expo projec | 3021 | +0 | 199 |
+| 13 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage | 95739 | +0 | 10732 |
 
-| 14 | [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) | Linux Kernel for Surface Devices | 7846 | +0 | 379 |
-
-| 15 | [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n skillset for Claude Code to build flawless n8n workflows | 6522 | +0 | 1074 |
-
-| 16 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage | 95655 | +0 | 10583 |
+| 14 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wiza | 165938 | +0 | 26882 |
 
 
 
@@ -532,27 +544,25 @@ _(本周该语言没有 trending 数据)_
 | # | 项目 | 描述 | Stars | Today Stars | Forks |
 |---|------|------|-------|-------------|-------|
 
-| 1 | [php/php-src](https://github.com/php/php-src) | The PHP Interpreter | 41665 | +0 | 8405 |
+| 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that superc | 140399 | +0 | 8687 |
 
-| 2 | [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp) | Static recompilation runtime libraries for PlayStation 3 tit | 577 | +0 | 85 |
+| 2 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility | 27223 | +0 | 3599 |
 
-| 3 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 | 28227 | +0 | 753 |
+| 3 | [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | Primary Git Repository for the Zephyr Project. Zephyr is a n | 16976 | +0 | 10324 |
 
-| 4 | [opa334/Dopamine](https://github.com/opa334/Dopamine) | Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0. | 7080 | +0 | 6487 |
+| 4 | [snesrev/zelda3](https://github.com/snesrev/zelda3) | - | 4974 | +0 | 470 |
 
-| 5 | [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) | - | 5140 | +0 | 799 |
+| 5 | [micropython/micropython](https://github.com/micropython/micropython) | MicroPython - a lean and efficient Python implementation for | 22178 | +0 | 9035 |
 
-| 6 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streamin | 78215 | +0 | 10861 |
+| 6 | [lvgl/lvgl](https://github.com/lvgl/lvgl) | LVGL is a free, full-featured embedded UI library for device | 25071 | +0 | 4422 |
 
-| 7 | [espressif/esp-idf](https://github.com/espressif/esp-idf) | Espressif IoT Development Framework. Official development fr | 19342 | +0 | 8565 |
+| 7 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | A flexible distributed key-value database that is optimized  | 27580 | +0 | 1538 |
 
-| 8 | [Yokimitsuro/khdays-port](https://github.com/Yokimitsuro/khdays-port) | Experimental native PC runtime for Kingdom Hearts 358/2 Days | 208 | +0 | 19 |
+| 8 | [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) | An open source, portable, easy to use, readable and flexible | 7047 | +0 | 3010 |
 
-| 9 | [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp) | Turn any Xbox game binary into a native Windows executable.  | 299 | +0 | 89 |
+| 9 | [curl/curl](https://github.com/curl/curl) | A command line tool and library for transferring data with U | 43348 | +0 | 7475 |
 
-| 10 | [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | An advanced Kernel based root solution for Android | 4618 | +0 | 1219 |
-
-| 11 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | Original Xbox Emulator for Windows, macOS, and Linux (Active | 4217 | +0 | 568 |
+| 10 | [meta/zstd](https://github.com/meta/zstd) | Zstandard - Fast real-time compression algorithm | 28151 | +0 | 2667 |
 
 
 
